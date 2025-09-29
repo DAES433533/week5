@@ -142,8 +142,20 @@ dmypy.json
 *.svg
 *.jpeg
 
-# Parquet files
+# Data directory
+data/
+
+# Tabular files
 *.parquet
+*.csv
+*.xls
+*.xlsx
+
+# Gridded data files
+*.nc
+*.nc4
+*.grib*
+*.zarr
 
 # MyST build outputs
 _build
