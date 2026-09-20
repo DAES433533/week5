@@ -152,7 +152,6 @@ data/
 *.xlsx
 
 # Gridded data files
-*.nc
 *.nc4
 *.grib*
 *.zarr
